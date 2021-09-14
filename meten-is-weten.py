@@ -15,4 +15,4 @@ else:
     max = b
     min = a
     print("a en b zijn even groot")
-    print(f"Het minimum is {min} en het maximum {max}"
+    print(f"Het minimum is {min} en het maximum {max}")
